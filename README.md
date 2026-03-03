@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Marketplace ETL Pipeline & GTM (Go-To-Market) Analysis 
+# 🛒 Ecommerce Performance & Retention Analysis
 
 ## 🧭 Executive Summary 
 <p>
