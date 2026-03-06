@@ -130,12 +130,11 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
 Looker Report Snapshot:
 
+<img width="969" height="876" alt="Screenshot 2026-03-06 at 6 16 25 PM" src="https://github.com/user-attachments/assets/638faa71-6719-45d5-95a0-e398ccf661d4" />
 
-<img width="974" height="872" alt="Screenshot 2026-01-29 at 2 09 56 PM" src="https://github.com/user-attachments/assets/b76e3feb-d43a-4e8c-b9c8-501076d8d2bc" />
+<img width="970" height="878" alt="Screenshot 2026-03-06 at 6 16 32 PM" src="https://github.com/user-attachments/assets/8192075b-3669-4949-94cb-0103194b309b" />
 
-<img width="973" height="878" alt="Screenshot 2026-01-29 at 2 10 03 PM" src="https://github.com/user-attachments/assets/3632ecca-9132-41a2-be19-241ab89230b7" />
-
-<img width="963" height="879" alt="Screenshot 2026-01-29 at 2 33 16 PM" src="https://github.com/user-attachments/assets/b6e31d8f-85fd-4a4d-88c6-b9f09e8ee55c" />
+<img width="961" height="875" alt="Screenshot 2026-03-06 at 6 16 39 PM" src="https://github.com/user-attachments/assets/a1e67c10-a17a-47a1-b6f7-13107b8884d0" />
 
 <img width="974" height="657" alt="Screenshot 2026-01-29 at 2 10 14 PM" src="https://github.com/user-attachments/assets/aa8d2ba3-db1e-4f78-bbf0-2ac850875ae6" />
 
