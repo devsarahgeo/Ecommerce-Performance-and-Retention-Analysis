@@ -132,11 +132,11 @@ Looker Report Snapshot:
 
 <img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.56.14%E2%80%AFPM.png" />
 
+<img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.56.26%E2%80%AFPM.png" />
 
+<img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.56.33%E2%80%AFPM.png" />
 
-
-
-
+<img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.57.00%E2%80%AFPM.png" />
 
 ---
 
