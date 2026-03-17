@@ -2,7 +2,7 @@
 
 ## 🧭 Executive Summary 
 <p>
-This analysis examines Brazilian e-commerce marketplace data from 2016–2018, focusing on GMV, order volume, cancellations, and repeat buyers to understand core marketplace performance and customer behavior patterns.
+This analysis examines Olist's (Brazilian e-commerce marketplace) data from 2016–2018, focusing on GMV, order volume, cancellations, and repeat buyers to understand core marketplace performance and customer behavior patterns.
 
 Pre-2019 data was selected to establish a clean baseline, free from pandemic-era distortions that emerged after 2020.
 
