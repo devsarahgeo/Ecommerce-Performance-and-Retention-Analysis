@@ -100,14 +100,14 @@ Which segments contribute most to GMV?
 ---
 
 ## 🧠 Skills & Tech Stack
-<ul>
-  <li><strong>Visual Studio Code</strong> – Central development environment</li>
-    <li><strong>PostgreSQL</strong> – Raw Data Store</li>
-  <li><strong>BigQuery</strong> – Cloud Data Warehouse</li>
 
-  <li><strong>Looker</strong> – Data visualization and storytelling</li>
-  <li><strong>SQL and Python</strong> – Analytical querying</li>
-</ul>
+| Layer | Tool | Detail |
+|-------|------|--------|
+| Dataset | Olist (Kaggle) | 94,383 customers · 3,095 sellers · 71 categories · 2016–2018 |
+| Data Store | PostgreSQL | Raw ingestion with FK constraints across 8 relational tables |
+| Warehouse | Google BigQuery | Cloud-scale analytical queries |
+| Visualization | Looker | 4-tab executive dashboard: GMV · Order Volume · Cancellations · RFM |
+| Analysis | Python + SQL | CTEs, window functions, RFM scoring, customer segmentation |
 
 ---
 
@@ -157,51 +157,23 @@ Looker Report Snapshot:
 
 **Business Insights, Impact & Recommendations**:
 
-<ul>
-<li> New customers drive the majority(~31%) of GMV, making customer acquisition a primary growth lever. 
+> Analyzed 94,383 customers across 3,095 sellers and 71 product 
+> categories (2016–2018).
+> <br>
+> Core finding: with only a 6.7% repeat rate, 
+> acquisition drives growth but retention is the untapped lever. The 
+> At Risk segment alone holds 20% of customers and significant GMV recovery 
+> potential.
 
- <u><b>Recommendation:</b></u> Launch targeted campaigns to acquire new customers. 
-</li>
+| # | Finding | Business Impact | Recommendation |
+|---|---------|----------------|----------------|
+| 1 | New customers drive 30.84% of GMV; repeat rate is only 6.7% (6,342 of 94,383 customers) | Acquisition is the #1 growth lever today, but low retention signals long-term revenue risk | Invest in paid acquisition while building post-purchase loyalty flows to improve repeat rate |
+| 2 | Repeat activity peaks sharply in October then collapses with near-zero repeat rate from Jan–Jul | Retention window is narrow; missing October = missing the only natural re-engagement moment | 93% of customers never return after their first purchase. With repeat activity naturally spiking in October, launch re-engagement campaigns targeting one-time buyers in September. Converting even a fraction into repeat buyers during this window would meaningfully improve the 6.7% repeat rate. |
+| 3 | São Paulo (15.5K) and Rio (6.9K) dominate; other cities drop to 2.8K (Belo Horizonte) | Top 2 cities = ~80% of activity — extreme geographic concentration risk | Deepen seller density and logistics SLAs in top cities; run targeted acquisition in Belo Horizonte, Brasília, Curitiba |
+| 4 | At Risk segment = 20.21% of customers but only 8.03% of GMV; Champions = 3.53% of customers, 2.89% GMV | At Risk customers are churning before reaching full value — early intervention is high ROI | Urgent re-engagement campaigns for At Risk; loyalty rewards for Champions; personalized cross-sell for Potential Loyalists |
+| 5 | GMV peaks at $1.5M in May and orders peak at 12.3K in August; September drops to $607.5K | 2.5x swing between peak and trough — predictable pattern enables proactive planning | Front-load marketing spend in April & July; negotiate seller inventory commitments ahead of peak months |
+| 6 | Cancellation rate improved from 7.9% (2016) → 0.62% (2018); Sports Leisure has highest cancelled orders (47) | Strong operational improvement over time; Sports Leisure remains an outlier dragging satisfaction | Audit Sports Leisure sellers by ship time; enforce SLA thresholds; avg delivery of 12.47 days needs category-level benchmarking |
 
-<li> Repeat customer activity peaks in October, indicating opportunities for targeted retention and promotional strategies.
-
- <u><b>Recommendation:</b></u> October retention peak suggests running loyalty campaigns before Q4. </li>
-
-<li>Customer activity concentrated in Sao Paulo & Rio de Janeiro. Geographic concentration shows high-value markets.
-  
- <u><b>Recommendation:</b></u> Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities. Run acquisition campaigns and seller onboarding in emerging cities to expand reach. </li>
-
-<li>
-Customers can be grouped into RFM segments (Recency, Frequency, Monetary). Each segment behaves differently (e.g., frequent high-spenders vs. new low-spenders).
-  
-Tailoring campaigns to segments can improve revenue and ROI. Generic campaigns may underperform because they ignore behavioral differences
-  
- <u><b>Recommendation:</b></u> Implement segment-specific marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency:
-
-- Retain high-value customers with loyalty campaigns
-- Re-engage At-Risk High-Value Customers (“Cannot Lose Them” customer segment) through targeted campaigns before they churn.
-- Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
-    
-</li>
-
-<li>
-Historical data shows GMV peaks in May and August. These months consistently generate more revenue than others.
-
-The business can maximize revenue by focusing marketing and promotional efforts during these peak months.
-
- <u><b>Recommendation:</b></u> Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
-</li>
-
-<li>
-  Sports Leisure product category has high cancellation rates
-  
-  High cancellations reduce customer satisfaction, revenue, and operational efficiency.
-
-   <u><b>Recommendation:</b></u> Investigate and resolve high-cancellation products and sellers. Improve logistics, inventory planning, and category-specific processes to reduce cancellations.
-  
-</li>
-
-</ul>
 
 ---
 
