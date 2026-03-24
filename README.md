@@ -134,7 +134,7 @@ Looker Report Snapshot:
 
 <img width="976" height="880" alt="Screenshot 2026-03-24 at 7 09 17 PM" src="https://github.com/user-attachments/assets/06c668dc-26da-47ce-9cd7-83d9a84c7da5" />
 
-<img width="959" height="878" alt="Screenshot 2026-03-24 at 7 13 47 PM" src="https://github.com/user-attachments/assets/dc80cdaa-1c95-4220-952a-39f83c91adb2" />
+<img width="978" height="880" alt="Screenshot 2026-03-24 at 7 26 58 PM" src="https://github.com/user-attachments/assets/010c8120-abcb-4f0f-b167-9fefb23f4fc9" />
 
 <img width="970" height="860" alt="Screenshot 2026-03-24 at 7 13 53 PM" src="https://github.com/user-attachments/assets/e60a0df0-8558-4a5a-bd54-08726d696604" />
 
@@ -169,7 +169,7 @@ Looker Report Snapshot:
 |---|---------|----------------|----------------|
 | 1 | New customers drive 30.84% of GMV; repeat rate is only 6.7% (6,342 of 94,383 customers) | Acquisition is the #1 growth lever today, but low retention signals long-term revenue risk | Invest in paid acquisition while building post-purchase loyalty flows to improve repeat rate |
 | 2 | Repeat activity peaks sharply in October then collapses with near-zero repeat rate from Jan–Jul | Retention window is narrow; missing October = missing the only natural re-engagement moment | 93% of customers never return after their first purchase. With repeat activity naturally spiking in October, launch re-engagement campaigns targeting one-time buyers in September. Converting even a fraction into repeat buyers during this window would meaningfully improve the 6.7% repeat rate. |
-| 3 | São Paulo (15.5K) and Rio (6.9K) dominate; other cities drop to 2.8K (Belo Horizonte) | Geographic concentration = high-value but high-risk dependency | Deepen seller density and logistics SLAs in top cities; run targeted acquisition in Belo Horizonte, Brasília, Curitiba |
+| 3 | São Paulo (15.5K) and Rio (6.9K) dominate in highest number of active customers; other cities drop to 2.8K (Belo Horizonte) & below| Geographic concentration = high-value but high-risk dependency | Deepen seller density and logistics SLAs in top cities; run targeted acquisition in Belo Horizonte, Brasília, Curitiba |
 | 4 | At Risk segment = 20.21% of customers but only 8.03% of GMV; Champions = 3.53% of customers, 2.89% GMV | At Risk customers are churning before reaching full value - early intervention is high ROI | Urgent re-engagement campaigns for At Risk; loyalty rewards for Champions; personalized cross-sell for Potential Loyalists |
 | 5 | GMV peaks at $1.5M in May and orders peak at 12.3K in August; September drops to $607.5K | 2.5x swing between peak and trough - predictable pattern enables proactive planning |Front-load marketing ahead of peak months(May and August). Tailoring strategy - 1) in GMV-driven peaks (May) - maximize AOV by promoting premium/high-priced products or offering bundles ("Buy 2, save more") 2) in order-driven peaks (August): Run Discount / flash sales campaigns, limited-time offers / deals campaigns, also ensure inventory + volume readiness |
 | 6 | Cancellation rate improved from 7.9% (2016) -> 0.62% (2018); Sports Leisure has highest cancelled orders (47) | Strong operational improvement over time; Sports Leisure remains an outlier dragging satisfaction | Audit Sports Leisure sellers by ship time; enforce SLA thresholds; avg delivery of 12.47 days needs category-level benchmarking |
