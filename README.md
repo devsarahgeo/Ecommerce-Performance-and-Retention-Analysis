@@ -132,11 +132,11 @@ Looker Report Snapshot:
 
 <img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.56.14%E2%80%AFPM.png" />
 
-<img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.56.26%E2%80%AFPM.png" />
+<img width="976" height="880" alt="Screenshot 2026-03-24 at 7 09 17 PM" src="https://github.com/user-attachments/assets/06c668dc-26da-47ce-9cd7-83d9a84c7da5" />
 
-<img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.56.33%E2%80%AFPM.png" />
+<img width="959" height="878" alt="Screenshot 2026-03-24 at 7 13 47 PM" src="https://github.com/user-attachments/assets/dc80cdaa-1c95-4220-952a-39f83c91adb2" />
 
-<img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.57.00%E2%80%AFPM.png" />
+<img width="970" height="860" alt="Screenshot 2026-03-24 at 7 13 53 PM" src="https://github.com/user-attachments/assets/e60a0df0-8558-4a5a-bd54-08726d696604" />
 
 ---
 
