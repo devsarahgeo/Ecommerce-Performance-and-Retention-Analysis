@@ -129,6 +129,11 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 ## 📈 Results
 
 Looker Report Snapshot:
+**NOTE:** 
+Improvements which should be done throughout all charts: 
+- show $ symbol in axis when it is a currency
+- in second last chart, y axis should be "Total orders" and not "total_order_count"
+
 
 <img width="1461" height="814" alt="ss" src="https://github.com/devsarahgeo/Ecommerce-Performance-and-Retention-Analysis/blob/main/looker%20results/Screenshot%202026-03-14%20at%204.56.14%E2%80%AFPM.png" />
 
