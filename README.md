@@ -129,6 +129,7 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 ## 📈 Results
 
 Looker Report Snapshot:
+
 **NOTE:** 
 Improvements which should be done throughout all charts: 
 - show $ symbol in axis when it is a currency
